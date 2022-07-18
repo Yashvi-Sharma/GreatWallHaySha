@@ -1,0 +1,5 @@
+# do not track input or saved data files in this directory
+
+*.npy
+
+.ipynb_checkpoints
