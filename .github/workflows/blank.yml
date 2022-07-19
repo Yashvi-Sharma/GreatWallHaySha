@@ -35,4 +35,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           pip install pytest
+          pip install numpy
           pytest test_contint.py
